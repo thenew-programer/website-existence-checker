@@ -10,8 +10,6 @@ This project provides a Python script that reads a list of URLs from a CSV file,
     - [Running from Source](#running-from-source)
 3. [Usage](#usage)
 4. [Dependencies](#dependencies)
-5. [Building the Executable](#building-the-executable)
-6. [License](#license)
 
 ## Features
 
@@ -25,10 +23,10 @@ This project provides a Python script that reads a list of URLs from a CSV file,
 
 ### Using the Executable
 
-1. Download the executable file for your operating system from the [Releases](https://github.com/yourusername/website-existence-checker/releases) page.
+1. Download the executable file for your operating system from the [Releases](https://github.com/thenew-programer/website-existence-checker/releases) page.
 2. Run the executable file:
-    - On Windows: Double-click `site_tester.exe`.
-    - On macOS/Linux: Open a terminal and run `./site_tester`.
+    - On Windows: Double-click `website-existence-checker.exe`.
+    - On macOS/Linux: Open a terminal and run `./website-existence-checker`.
 
 ### Running from Source
 
@@ -72,4 +70,4 @@ The script requires the following Python packages:
 - `requests`
 - `csv`
 - `time`
-*These dependencies are listed in the requirements.txt file.*
+These dependencies are listed in the requirements.txt file.
